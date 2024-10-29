@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harun\\source\\repos\\BlazorWebAppMovies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{799F42EC-5399-49E1-9387-1D1C916140AF}|BlazorWebAppMovies.csproj|c:\\users\\harun\\source\\repos\\blazorwebappmovies\\components\\pages\\moviepages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{799F42EC-5399-49E1-9387-1D1C916140AF}|BlazorWebAppMovies.csproj|solutionrelative:components\\pages\\moviepages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\harun\\source\\repos\\BlazorWebAppMovies\\Components\\Pages\\MoviePages\\Index.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\MoviePages\\Index.razor",
+              "ToolTip": "C:\\Users\\harun\\source\\repos\\BlazorWebAppMovies\\Components\\Pages\\MoviePages\\Index.razor",
+              "RelativeToolTip": "Components\\Pages\\MoviePages\\Index.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T17:01:40.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
